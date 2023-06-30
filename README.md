@@ -1,4 +1,4 @@
-# Business and Data Analyst Portfolio
+## Business and Data Analyst Portfolio 📂
 ---
 This repository is a portfolio of projects I've completed during school. Their focus either is business analytics, data analytics, or data science. They are in descending order, so the lastest one are on the top. Below are the overview of each project.
 
@@ -60,11 +60,12 @@ Methodology:
   + final model chosen based on performance of R-Square and RASE
 + Business Suggestions based on Analysis
 
-Please check out the slide if you want to know more details about this project! 
+Please check out the [slide](https://github.com/graceli01/BDAportfolio/blob/58b2441b862f0d645ee8416c362ea01b044def66/Seoul%20Biking%20Sharing%20Project.pdf) if you want to know more details about this project! 
 Visualizations and business suggestions are presented in the slide. 😊
 
 --- 
 ### 💬 Feel Free to reach out to me by emailing **graceli.w01@gmail.com** if you have any questions or concerns!
+### I also involved in other projects that are more aligned with marketing analysis, check out here!
 <br>
 
 
