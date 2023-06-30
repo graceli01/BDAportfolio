@@ -64,8 +64,8 @@ Please check out the [slide](https://github.com/graceli01/BDAportfolio/blob/58b2
 Visualizations and business suggestions are presented in the slide. 😊
 
 --- 
-### 💬 Feel Free to reach out to me by emailing **graceli.w01@gmail.com** if you have any questions or concerns!
-### I also involved in other projects that are more aligned with marketing analysis, check out here!
+### 💬 Feel Free to reach out to me by emailing **graceli.w01@gmail.com** if you have any questions or concerns! 
+### 🤗 I also involved in other projects that are more aligned with marketing analysis, check out here!
 <br>
 
 
