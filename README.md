@@ -4,8 +4,7 @@ This repository is a portfolio of projects I've completed during school. Their f
 
 ---
 ## [Developing a Kinetic Incient Tracker](https://github.com/katgrubbs14/NAV_Capstone)
-<h3 align="left">Languages and Tools:</h3>
-<img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+Languages and Tools: <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
 This is the Capstone project I did at GWU. It was an honor and pleasure that I have the opportunity to work for the [Navanti Group](https://navantigroup.com/) with my team. 
